@@ -1,2 +1,2 @@
 # FreeFirstPersonShooter
- A free first person shooter project made with Unreal to have a fun
+A free first person shooter project with basic functionalities made with Unreal.
